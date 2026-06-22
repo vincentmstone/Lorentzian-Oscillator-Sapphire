@@ -1,7 +1,4 @@
 # Lorentzian-Oscillator-Sapphire
-Using the multi-lorentzian oscillator model to fit the complex index of refraction of Sapphire.
-
-Description:
 
 Sapphire (α-Al₂O₃) has a strong electronic absorption edge in the UV, a wide transparency window from
 the near-UV through the near-IR, and well-separated phonon resonances in the mid- to far-IR. This
