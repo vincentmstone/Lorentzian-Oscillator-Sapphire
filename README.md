@@ -18,3 +18,9 @@ transparent region. How much do they agree?
 correspond to, and is the rule expected to fail when applied to a fit over a finite spectral range?
 - Identify where your fit fails if it does (spectral regions where the Lorentz model cannot
 reproduce the data) and discuss possible physical reasons.
+
+My Learning Takeaways
+
+- I now have a good grasp on the classical Lorentz oscillator model for the index of refraction of a material, and I'm starting to understand its strengths and weaknesses. It seems like, in the domain of high-power lasers and nonlinear optics, semi-classical are very commonplace and effective.
+- I learned to use nonlinear least squares curve fitting on multi-dimensional and complex-valued functions. This was more difficult than expected, especially figuring out how to use more custom tools for this more tricky application (scipy least-squares instead of curve-fit). This will be useful for the numerous data-driven tasks in my future!
+- I had my first experience searching the scientific literature for answers motivated by my results, in the extension tasks. This was quite difficult, but I foudn it fulfilling to start to understand the scientific conversation. 
